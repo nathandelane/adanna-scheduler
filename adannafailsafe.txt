@@ -1,0 +1,4 @@
+TO: qateam@vehix.com <mailto:qateam@vehix.com>
+FROM: adanna@vehix.com <mailto:adanna@vehix.com>
+SUBJECT: From ADAnna Server - QA-NATHANL.
+Bot failed: spider_ie_1.rb Messages: ; 
