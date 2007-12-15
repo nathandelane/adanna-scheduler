@@ -1,0 +1,1672 @@
+    <?xml-stylesheet type="text/xsl" href="log_style.xsl"?>
+    <Log>
+      <Header>
+        <Title>Spider Launcher Log</Title>
+        <Timestamp>2007/08/27 13:19:47</Timestamp>
+      </Header>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:19:47</Timestamp>
+        <Message>Loaded spider class from file: spider_ie_1.rb</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:19:47</Timestamp>
+        <Message>Spider: set up spider with startPage=&apos;/&apos;; depth=4; takeScreenshots=true; linksFilteringRulesArray=[&quot;class_name:Menu&quot;, &quot;class_name:footerLink&quot;, &quot;id:breadcrumb&quot;, &quot;id:hidden&quot;, &quot;href:@&quot;, &quot;id:inventory&quot;, &quot;href:javascript&quot;, &quot;href:doubleclick&quot;, &quot;href:#&quot;, &quot;src:!.gif&quot;, &quot;src:menu&quot;, &quot;src:titlebar&quot;, &quot;text:Visit the Dealer Website&quot;]</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:19:50</Timestamp>
+        <Message>Spider: Running the TestSpider.rb script</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:19:57</Timestamp>
+        <Message>Spider: Successfully browsed to starting page: http://www.vehix.com/</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:19:57</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:20:19</Timestamp>
+        <Message>Spider: Links found: 12</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:20:19</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - Home_1188242419_level_0.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:20:28</Timestamp>
+        <Message>Spider: Links traversed [1, 0, 0, 0] 12 L0</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:20:30</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:20:30</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/tv/buyingGuidesVimation.aspx?year=2007&amp;bodystyle=Compact/Coupe&amp;zip=84106 to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:20:32</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - Buying Guides_1188242431_level_1.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:21:08</Timestamp>
+        <Message>Spider: Links found: 0</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:21:09</Timestamp>
+        <Message>Spider: Going Back to 0</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:21:25</Timestamp>
+        <Message>Spider: Links traversed [2, 0, 0, 0] 12 L0</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:21:25</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 2 on level 0</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:21:39</Timestamp>
+        <Message>Spider: Links traversed [3, 0, 0, 0] 12 L0</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:21:40</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:21:40</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/research/safety.aspx to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:21:42</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - Safety Information_1188242502_level_1.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:22:03</Timestamp>
+        <Message>Spider: Links found: 4</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:22:10</Timestamp>
+        <Message>Spider: Links traversed [3, 1, 0, 0] 4 L1</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:22:11</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:22:11</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/research/safety/InVehicleSafetyDevices.aspx to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:22:13</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - In-Vehicle Safety Devices_1188242532_level_2.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:22:38</Timestamp>
+        <Message>Spider: Links found: 4</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:22:45</Timestamp>
+        <Message>Spider: Links traversed [3, 1, 1, 0] 4 L2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:22:45</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 1 on level 2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:23:00</Timestamp>
+        <Message>Spider: Links traversed [3, 1, 2, 0] 4 L2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:23:01</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:23:01</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/research/safety/AutoSafetyFeaturesTips.aspx to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:23:03</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - Tips for Proper Use_1188242582_level_3.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:23:28</Timestamp>
+        <Message>Spider: Links found: 4</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:23:37</Timestamp>
+        <Message>Spider: Links traversed [3, 1, 2, 1] 4 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:23:37</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 1 on level 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:23:52</Timestamp>
+        <Message>Spider: Links traversed [3, 1, 2, 2] 4 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:23:52</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 2 on level 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:24:05</Timestamp>
+        <Message>Spider: Links traversed [3, 1, 2, 3] 4 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:24:06</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:24:06</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/research/safety/VehicleSafetyTechnology.aspx to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:24:08</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - Vehicle Safety Technology_1188242647_level_4.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:24:09</Timestamp>
+        <Message>Spider: Going Back to 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:24:24</Timestamp>
+        <Message>Spider: Links traversed [3, 1, 2, 4] 4 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:24:25</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:24:25</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/research/safety/AirBags.aspx to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:24:27</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - Air Bags_1188242666_level_4.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:24:28</Timestamp>
+        <Message>Spider: Going Back to 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:24:33</Timestamp>
+        <Message>Spider: Going Back to 2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:24:47</Timestamp>
+        <Message>Spider: Links traversed [3, 1, 3, 0] 4 L2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:24:47</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 3 on level 2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:24:59</Timestamp>
+        <Message>Spider: Links traversed [3, 1, 4, 0] 4 L2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:24:59</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 4 on level 2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:25:05</Timestamp>
+        <Message>Spider: Going Back to 1</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:25:19</Timestamp>
+        <Message>Spider: Links traversed [3, 2, 0, 0] 4 L1</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:25:20</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 2 on level 1</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:25:35</Timestamp>
+        <Message>Spider: Links traversed [3, 3, 0, 0] 4 L1</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:25:35</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 3 on level 1</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:25:47</Timestamp>
+        <Message>Spider: Links traversed [3, 4, 0, 0] 4 L1</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:25:47</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 4 on level 1</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:25:53</Timestamp>
+        <Message>Spider: Going Back to 0</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:26:08</Timestamp>
+        <Message>Spider: Links traversed [4, 0, 0, 0] 12 L0</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:26:08</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 4 on level 0</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:26:23</Timestamp>
+        <Message>Spider: Links traversed [5, 0, 0, 0] 12 L0</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:26:24</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:26:24</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/research/comparisonSelectVehicle.aspx to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:26:26</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - Comparison Tool_1188242786_level_1.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:26:45</Timestamp>
+        <Message>Spider: Links found: 1</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:26:53</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 0, 0] 1 L1</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:26:54</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:26:54</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/research/ICOTY/ to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:26:55</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - Research _ 2006 ICOTY Awards_1188242815_level_2.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:27:24</Timestamp>
+        <Message>Spider: Links found: 19</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:27:32</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 1, 0] 19 L2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:27:33</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:27:33</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/research/ICOTY/Default.aspx to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:27:34</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - Research _ 2006 ICOTY Awards_1188242854_level_3.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:28:03</Timestamp>
+        <Message>Spider: Links found: 19</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:28:11</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 1, 1] 19 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:28:11</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 1 on level 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:28:26</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 1, 2] 19 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:28:27</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:28:28</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/research/ICOTY/CarOfTheYear.aspx to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:28:29</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - 2006 ICOTY Awards _ Car Of The Year_1188242909_level_4.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:28:30</Timestamp>
+        <Message>Spider: Going Back to 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:28:43</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 1, 3] 19 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:28:44</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:28:44</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/research/ICOTY/TruckOfTheYear.aspx to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:28:46</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - 2006 ICOTY Awards _ Truck Of The Year_1188242925_level_4.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:28:47</Timestamp>
+        <Message>Spider: Going Back to 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:29:00</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 1, 4] 19 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:29:02</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:29:02</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/research/ICOTY/MostSpirited.aspx to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:29:03</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - 2006 ICOTY Awards _ Most Spirited - Entry-Level_1188242943_level_4.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:29:04</Timestamp>
+        <Message>Spider: Going Back to 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:29:19</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 1, 5] 19 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:29:21</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:29:21</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/research/ICOTY/MostVersatile.aspx to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:29:23</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - 2006 ICOTY Awards _ Most Versatile - Crossover_Sport wagon_1188242962_level_4.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:29:24</Timestamp>
+        <Message>Spider: Going Back to 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:29:37</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 1, 6] 19 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:29:38</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:29:38</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/research/ICOTY/MostAthletic.aspx to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:29:40</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - 2006 ICOTY Awards _ Most Athletic - Pickup Truck Of The Year_1188242979_level_4.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:29:41</Timestamp>
+        <Message>Spider: Going Back to 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:29:56</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 1, 7] 19 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:29:58</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:29:58</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/research/ICOTY/MostSexAppeal.aspx to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:30:00</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - 2006 ICOTY Awards _ Most Sex Appeal - Sports Car Of The Year_1188242999_level_4.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:30:01</Timestamp>
+        <Message>Spider: Going Back to 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:30:17</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 1, 8] 19 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:30:18</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:30:18</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/research/ICOTY/MostDependable.aspx to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:30:20</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - 2006 ICOTY Awards _ Most Dependable - Sedan Of The Year_1188243020_level_4.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:30:22</Timestamp>
+        <Message>Spider: Going Back to 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:30:38</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 1, 9] 19 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:30:39</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:30:39</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/research/ICOTY/MostCompatible.aspx to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:30:41</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - 2006 ICOTY Awards _ Most Compatible - Minivan Of The Year_1188243041_level_4.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:30:43</Timestamp>
+        <Message>Spider: Going Back to 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:30:56</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 1, 10] 19 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:30:57</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:30:57</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/research/ICOTY/MostRespected.aspx to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:30:59</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - 2006 ICOTY Awards _ Most Respected - Luxury Car Of The Year_1188243058_level_4.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:31:01</Timestamp>
+        <Message>Spider: Going Back to 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:31:16</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 1, 11] 19 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:31:18</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:31:18</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/research/ICOTY/MostResourceful.aspx to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:31:20</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - 2006 ICOTY Awards _ Most Resourceful - SUV Of The Year_1188243079_level_4.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:31:21</Timestamp>
+        <Message>Spider: Going Back to 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:31:38</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 1, 12] 19 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:31:39</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:31:39</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/research/ICOTY/MostAthletic.aspx?radius=75&amp;zip=84106&amp;year= to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:31:41</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - 2006 ICOTY Awards _ Most Athletic - Pickup Truck Of The Year_1188243100_level_4.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:31:42</Timestamp>
+        <Message>Spider: Going Back to 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:31:56</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 1, 13] 19 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:31:57</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:31:58</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/research/ICOTY/MostSexAppeal.aspx?radius=75&amp;zip=84106&amp;year= to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:32:00</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - 2006 ICOTY Awards _ Most Sex Appeal - Sports Car Of The Year_1188243119_level_4.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:32:01</Timestamp>
+        <Message>Spider: Going Back to 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:32:14</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 1, 14] 19 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:32:15</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:32:16</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/research/ICOTY/MostDependable.aspx?radius=75&amp;zip=84106&amp;year= to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:32:17</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - 2006 ICOTY Awards _ Most Dependable - Sedan Of The Year_1188243137_level_4.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:32:19</Timestamp>
+        <Message>Spider: Going Back to 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:32:41</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 1, 15] 19 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:32:42</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:32:42</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/research/ICOTY/MostRespected.aspx?radius=75&amp;zip=84106&amp;year= to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:32:44</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - 2006 ICOTY Awards _ Most Respected - Luxury Car Of The Year_1188243163_level_4.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:32:45</Timestamp>
+        <Message>Spider: Going Back to 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:33:00</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 1, 16] 19 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:33:01</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:33:01</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/research/ICOTY/MostCompatible.aspx?radius=75&amp;zip=84106&amp;year= to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:33:03</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - 2006 ICOTY Awards _ Most Compatible - Minivan Of The Year_1188243182_level_4.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:33:04</Timestamp>
+        <Message>Spider: Going Back to 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:33:19</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 1, 17] 19 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:33:20</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:33:21</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/research/ICOTY/MostSpirited.aspx?radius=75&amp;zip=84106&amp;year= to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:33:22</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - 2006 ICOTY Awards _ Most Spirited - Entry-Level_1188243202_level_4.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:33:23</Timestamp>
+        <Message>Spider: Going Back to 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:33:37</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 1, 18] 19 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:33:39</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:33:39</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/research/ICOTY/MostVersatile.aspx?radius=75&amp;zip=84106&amp;year= to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:33:41</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - 2006 ICOTY Awards _ Most Versatile - Crossover_Sport wagon_1188243220_level_4.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:33:43</Timestamp>
+        <Message>Spider: Going Back to 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:34:00</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 1, 19] 19 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:34:01</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:34:01</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/research/ICOTY/MostResourceful.aspx?radius=75&amp;zip=84106&amp;year= to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:34:03</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - 2006 ICOTY Awards _ Most Resourceful - SUV Of The Year_1188243243_level_4.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:34:04</Timestamp>
+        <Message>Spider: Going Back to 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:34:10</Timestamp>
+        <Message>Spider: Going Back to 2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:34:24</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 2, 0] 19 L2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:34:24</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 2 on level 2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:34:38</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 3, 0] 19 L2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:34:38</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 3 on level 2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:34:52</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 4, 0] 19 L2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:34:53</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 4 on level 2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:35:08</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 5, 0] 19 L2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:35:08</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 5 on level 2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:35:23</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 6, 0] 19 L2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:35:23</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 6 on level 2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:35:40</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 7, 0] 19 L2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:35:40</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 7 on level 2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:35:56</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 8, 0] 19 L2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:35:57</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 8 on level 2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:36:12</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 9, 0] 19 L2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:36:13</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 9 on level 2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:36:30</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 10, 0] 19 L2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:36:31</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 10 on level 2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:36:47</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 11, 0] 19 L2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:36:48</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 11 on level 2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:37:02</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 12, 0] 19 L2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:37:03</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 12 on level 2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:37:17</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 13, 0] 19 L2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:37:17</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 13 on level 2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:37:32</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 14, 0] 19 L2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:37:33</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 14 on level 2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:37:46</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 15, 0] 19 L2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:37:47</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 15 on level 2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:38:01</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 16, 0] 19 L2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:38:01</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 16 on level 2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:38:19</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 17, 0] 19 L2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:38:20</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 17 on level 2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:38:34</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 18, 0] 19 L2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:38:35</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 18 on level 2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:38:52</Timestamp>
+        <Message>Spider: Links traversed [5, 1, 19, 0] 19 L2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:38:53</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 19 on level 2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:38:59</Timestamp>
+        <Message>Spider: Going Back to 1</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:39:08</Timestamp>
+        <Message>Spider: Going Back to 0</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:39:33</Timestamp>
+        <Message>Spider: Links traversed [6, 0, 0, 0] 12 L0</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:39:34</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 6 on level 0</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:40:00</Timestamp>
+        <Message>Spider: Links traversed [7, 0, 0, 0] 12 L0</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:40:02</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:40:02</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/research/usedVehicleValues.aspx to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:40:05</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - Used Vehicle Values_1188243605_level_1.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:40:39</Timestamp>
+        <Message>Spider: Links found: 14</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:40:51</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 0, 0] 14 L1</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:40:53</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:40:53</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/tv/showroomsVehicleDetails.aspx?make=16000000000028&amp;model=Cooper&amp;radius=75&amp;zip=84106&amp;year=2006 to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:40:55</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - Vehicle Showroom_1188243655_level_2.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:41:33</Timestamp>
+        <Message>Spider: Links found: 2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:41:54</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 1, 0] 2 L2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:41:57</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:41:57</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/inventory/SearchResults.aspx?radius=75&amp;zip=84106&amp;model=Cooper&amp;smodel=Cooper&amp;make=16000000000028&amp;year=2006&amp;condition=3&amp;search=showroom to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:41:59</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - Inventory Results_1188243719_level_3.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:42:33</Timestamp>
+        <Message>Spider: Links found: 24</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:42:45</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 1, 1] 24 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:42:48</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:42:48</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/inventory/advancedSearch.aspx?radius=75&amp;zip=84106&amp;model=Cooper&amp;smodel=Cooper&amp;make=16000000000028&amp;year=2006&amp;condition=3 to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:42:50</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - Advanced Search_1188243769_level_4.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:42:51</Timestamp>
+        <Message>Spider: Going Back to 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:44:52</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 1, 2] 24 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:44:54</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:44:54</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/inventory/VehicleDetails.aspx?zip=84106&amp;make=MINI&amp;model=Cooper&amp;year=2006&amp;inventoryid=770000008F4D44 to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:44:56</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - Vehicle Details_1188243895_level_4.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:44:58</Timestamp>
+        <Message>Spider: Going Back to 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:45:29</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 1, 3] 24 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:45:29</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 3 on level 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:45:55</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 1, 4] 24 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:45:56</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 4 on level 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:46:24</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 1, 5] 24 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:46:24</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 5 on level 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:47:30</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 1, 6] 24 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:47:30</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 6 on level 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:47:59</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 1, 7] 24 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:48:01</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 7 on level 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:48:24</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 1, 8] 24 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:48:25</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:48:28</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/dealer/findAdealer.aspx?radius=75&amp;zip=84106&amp;smodel=Cooper&amp;year=2006&amp;condition=3&amp;search=showroom&amp;sellerid=5F000000000A75 to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:48:31</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - Find A Dealer_1188244110_level_4.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:48:32</Timestamp>
+        <Message>Spider: Going Back to 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:49:03</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 1, 9] 24 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:49:05</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:49:05</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/inventory/VehicleDetails.aspx?zip=84106&amp;make=MINI&amp;model=Cooper&amp;year=2003&amp;inventoryid=7700000098B5CD to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:49:07</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - Vehicle Details_1188244147_level_4.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:49:09</Timestamp>
+        <Message>Spider: Going Back to 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:49:39</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 1, 10] 24 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:49:39</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 10 on level 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:50:09</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 1, 11] 24 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:50:10</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 11 on level 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:50:32</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 1, 12] 24 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:50:32</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 12 on level 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:50:52</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 1, 13] 24 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:50:52</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 13 on level 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:51:11</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 1, 14] 24 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:51:12</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 14 on level 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:51:32</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 1, 15] 24 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:51:33</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 15 on level 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:51:57</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 1, 16] 24 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:51:57</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 16 on level 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:52:27</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 1, 17] 24 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:52:29</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:52:32</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/dealer/findAdealer.aspx?radius=75&amp;zip=84106&amp;smodel=Cooper&amp;year=2006&amp;condition=3&amp;search=showroom&amp;sellerid=5F000000000ABC to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:52:34</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - Find A Dealer_1188244354_level_4.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:52:36</Timestamp>
+        <Message>Spider: Going Back to 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:53:02</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 1, 18] 24 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:53:04</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:53:05</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/inventory/VehicleDetails.aspx?zip=84106&amp;make=MINI&amp;model=Cooper&amp;year=2005&amp;inventoryid=770000009A6B5C to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:53:08</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - Vehicle Details_1188244387_level_4.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:53:09</Timestamp>
+        <Message>Spider: Going Back to 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:53:30</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 1, 19] 24 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:53:32</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 19 on level 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:53:51</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 1, 20] 24 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:53:52</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 20 on level 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:54:13</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 1, 21] 24 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:54:14</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 21 on level 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:54:32</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 1, 22] 24 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:54:33</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 22 on level 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:54:54</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 1, 23] 24 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:54:54</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 23 on level 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:55:13</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 1, 24] 24 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:55:14</Timestamp>
+        <Message>Spider: URL found in master list, going on to link 24 on level 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:55:22</Timestamp>
+        <Message>Spider: Going Back to 2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:55:50</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 2, 0] 2 L2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:55:52</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:55:53</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/dealer/findADealer.aspx?radius=75&amp;zip=84106&amp;model=Cooper&amp;smodel=Cooper&amp;make=16000000000028&amp;year=2006 to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:55:56</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - Find A Dealer_1188244555_level_3.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:56:27</Timestamp>
+        <Message>Spider: Links found: 6</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:56:43</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 2, 1] 6 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:56:47</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:56:47</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/dealer/findADealer.aspx?search=defaultInventory&amp;sellerid=5F000000000A75&amp;zip=84106&amp;condition=both&amp;make=16000000000028 to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:56:52</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - Find A Dealer_1188244610_level_4.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:56:54</Timestamp>
+        <Message>Spider: Going Back to 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:57:23</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 2, 2] 6 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:57:27</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:57:30</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/freePriceQuote/Default.aspx?sellerid=5F000000000A75&amp;make=16000000000028&amp;model=Cooper&amp;zip=84106 to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:57:33</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - Free Price Quote_1188244653_level_4.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:57:35</Timestamp>
+        <Message>Spider: Going Back to 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:58:03</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 2, 3] 6 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:58:06</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:58:08</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/dealer/findADealer.aspx?search=defaultInventory&amp;sellerid=5F000000001B81&amp;zip=84106&amp;condition=both&amp;make=16000000000028 to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:58:11</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - Find A Dealer_1188244691_level_4.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:58:14</Timestamp>
+        <Message>Spider: Going Back to 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:58:33</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 2, 4] 6 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:58:37</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:58:38</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/freePriceQuote/Default.aspx?sellerid=5F000000001B81&amp;make=16000000000028&amp;model=Cooper&amp;zip=84106 to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:58:42</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - Free Price Quote_1188244721_level_4.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:58:44</Timestamp>
+        <Message>Spider: Going Back to 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:59:11</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 2, 5] 6 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:59:13</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:59:15</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/freePriceQuote/Default.aspx?sellerid=5F000000000572&amp;make=16000000000028&amp;model=Cooper&amp;zip=84106 to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:59:17</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - Free Price Quote_1188244757_level_4.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:59:20</Timestamp>
+        <Message>Spider: Going Back to 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:59:42</Timestamp>
+        <Message>Spider: Links traversed [7, 1, 2, 6] 6 L3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:59:46</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 13:59:47</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/freePriceQuote/Default.aspx?sellerid=5F000000002B04&amp;make=16000000000028&amp;model=Cooper&amp;zip=84106 to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 13:59:54</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - Free Price Quote_1188244793_level_4.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 14:00:00</Timestamp>
+        <Message>Spider: Going Back to 3</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 14:00:13</Timestamp>
+        <Message>Spider: Going Back to 2</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 14:00:32</Timestamp>
+        <Message>Spider: Going Back to 1</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 14:00:59</Timestamp>
+        <Message>Spider: Links traversed [7, 2, 0, 0] 14 L1</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 14:01:05</Timestamp>
+        <Message>Spider: No error page was found</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Done</MessageType>
+        <Timestamp>2007/08/27 14:01:06</Timestamp>
+        <Message>Spider: Added http://www.vehix.com/tv/showroomsVehicleDetails.aspx?make=16000000000030&amp;model=911%20Carrera&amp;radius=75&amp;zip=84106&amp;year=2006 to master visited URLs list</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 14:01:10</Timestamp>
+        <Message>Spider: took screenshot Vehix.com - Vehicle Showroom_1188244870_level_2.jpeg</Message>
+      </LogItem>
+      <LogItem>
+        <MessageType>Pass</MessageType>
+        <Timestamp>2007/08/27 14:01:42</Timestamp>
+        <Message>spider_ie_1.rb bot final state was Pass</Message>
+      </LogItem>
+    </Log>

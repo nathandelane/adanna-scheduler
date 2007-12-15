@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<adanna_configuration>
+	<database_name>qastats</database_name>
+	<database_user_name>qarobot</database_user_name>
+	<database_password>vehix</database_password>
+	<database_type>MSSQL</database_type>
+	<task_check_delay>60</task_check_delay>
+	<task_time_bounds>300</task_time_bounds>
+	<reboot_regularly>yes</reboot_regularly>
+	<reboot_interval>28800</reboot_interval>
+	<error_email_address>qateam@vehix.com</error_email_address>
+	<creator_email_address>nathanl@vehix.com</creator_email_address>
+	<email_pickup_server>\\192.168.1.207\Pickup\</email_pickup_server>
+	<log_file_suffix>.xml</log_file_suffix>
+</adanna_configuration>

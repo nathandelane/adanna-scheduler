@@ -1,0 +1,101 @@
+*Default.aspx - Home Page
+*dealer/Default.aspx - FAD Landing
+*dealer/findadealer.aspx - FAD Results
+*freePriceQuote/Default.aspx - FPQ Landing
+*freePriceQuote/Details.aspx - FPQ Lead Form
+*inventory/Default.aspx - Search Inventory Landing
+*inventory/newCars.aspx - New Cars Landing
+*inventory/usedCars.aspx - Used Cars Landing
+*inventory/advancedSearch.aspx - Advanced Search Landing
+*inventory/SearchResults.aspx - Inventory Results
+research/Default.aspx - Research Landing
+research/browseVehicles.aspx - Research > Browse Vehicles
+research/Compact.aspx - Research > Browse Vehicles > Compact
+research/Sedan.aspx - Research > Browse Vehicles > Sedan
+research/SportUtilityVehicle.aspx - Research > Browse Vehicles > SUV
+research/Sport.aspx - Research > Browse Vehicles > Sport
+research/Truck.aspx - Research > Browse Vehicles > Trucks
+research/StationWagon.aspx - Research > Browse Vehicles > Wagon
+research/Convertible.aspx - Research > Browse Vehicles > Convertible
+research/Hybrid.aspx - Research > Browse Vehicles > Hybrid
+research/Luxury.aspx - Research > Browse Vehicles > Luxury
+research/MiniVan.aspx - Research > Browse Vehicles > Minivan
+research/Acura.aspx - Research > Browse Vehicles > Acura
+research/AstonMartin.aspx - Research > Browse Vehicles > Aston Martin
+research/Audi.aspx - Research > Browse Vehicles > Audi
+research/Bentley.aspx - Research > Browse Vehicles > Bentley
+research/BMW.aspx - Research > Browse Vehicles > BMW
+research/Buick.aspx - Research > Browse Vehicles > Buick
+research/Cadillac.aspx - Research > Browse Vehicles > Cadillac
+research/Chevrolet.aspx - Research > Browse Vehicles > Chevrolet
+research/Chrysler.aspx - Research > Browse Vehicles > Chrysler
+research/Dodge.aspx - Research > Browse Vehicles > Dodge
+research/Ferrari.aspx - Research > Browse Vehicles > Ferrari
+research/Ford.aspx - Research > Browse Vehicles > Ford
+research/GMC.aspx - Research > Browse Vehicles > GMC
+research/Honda.aspx - Research > Browse Vehicles > Honda
+research/HUMMER.aspx - Research > Browse Vehicles > HUMMER
+research/Hyundai.aspx - Research > Browse Vehicles > Hyundai
+research/Infiniti.aspx - Research > Browse Vehicles > Infiniti
+research/Isuzu.aspx - Research > Browse Vehicles > Isuzu
+research/Jaguar.aspx - Research > Browse Vehicles > Jaguar
+research/Jeep.aspx - Research > Browse Vehicles > Jeep
+research/Kia.aspx - Research > Browse Vehicles > Kia
+research/Lamborghini.aspx - Research > Browse Vehicles > Lamborghini
+research/LandRover.aspx - Research > Browse Vehicles > Land Rover
+research/Lexus.aspx - Research > Browse Vehicles > Lexus
+research/Lincoln.aspx - Research > Browse Vehicles > Lincoln
+research/Lotus.aspx - Research > Browse Vehicles > Lotus
+research/Maserati.aspx - Research > Browse Vehicles > Maserati
+research/Maybach.aspx - Research > Browse Vehicles > Maybach
+research/Mazda.aspx - Research > Browse Vehicles > Mazda
+research/MercedesBenz.aspx - Research > Browse Vehicles > Mercedes Benz
+research/Mercury.aspx - Research > Browse Vehicles > Mercury
+research/MINI.aspx - Research > Browse Vehicles > MINI
+research/Mitsubishi.aspx - Research > Browse Vehicles > Mitsubishi
+research/Nissan.aspx - Research > Browse Vehicles > Nissan
+research/Panoz.aspx - Research > Browse Vehicles > Panoz
+research/Pontiac.aspx - Research > Browse Vehicles > Pontiac
+research/Porsche.aspx - Research > Browse Vehicles > Porsche
+research/RollsRoyce.aspx - Research > Browse Vehicles > Rolls Royce
+research/Saab.aspx - Research > Browse Vehicles > Saab
+research/Saturn.aspx - Research > Browse Vehicles > Saturn
+research/Scion.aspx - Research > Browse Vehicles > Scion
+research/Subaru.aspx - Research > Browse Vehicles > Subaru
+research/Suzuki.aspx - Research > Browse Vehicles > Suzuki
+research/Toyota.aspx - Research > Browse Vehicles > Toyota
+research/Volkswagen.aspx - Research > Browse Vehicles > Volkwagen
+research/Volvo.aspx - Research > Browse Vehicles > Volvo
+research/previews.aspx - Previews Landing
+research/previewDetails.aspx - Previews Details
+research/reviews.aspx - Reviews Landing
+research/reviewDetails.aspx - Reviews Details
+research/vehicleSpecifications.aspx - Vehicle Specifications Landing
+research/vehicleSpecificationsVehicleDetails.aspx - Vehicle Specifications Details
+research/build.aspx - Build A New Car Landing
+research/buildYourCar.aspx - Build Your Car
+research/comparisonSelectVehicle.aspx - Comparison Tool Landing
+research/comparisonTool.aspx - Comparison Tool
+research/safety.aspx - Safety Information Landing
+research/safetyRatings.aspx - Body Style Safety Ratings
+research/safetyDetails.aspx - Make Model Safety Ratings
+research/usedVehicleValues.aspx - Used Vehicle Values Landing
+research/usedVehicleValueDetails.aspx - Used Vehicle Values Details
+research/certifiedPre-owned.aspx - CPO Landing
+research/carfax.aspx - Vehicle History Report Landing
+research/stateDMVInfo.aspx - State DMV Information
+tv/Default.aspx - Vehix TV Landing
+tv/showroomsVehicleDetails.aspx - Vehix TV > Showrooms
+tv/buyingGuidesVimation.aspx - Vehix TV > Buying Guides
+tv/testDrivesDetails.aspx - Vehix TV > Test Drives
+tv/theUnexpectedRideDetails.aspx - Vehix TV > Unexpected Ride
+tv/topTenDefault.aspx - Vehix TV > Top Ten Lists Landing
+tv/topTenLists.aspx - Vehix TV > Top Ten Lists
+finance/Default.aspx - Finance Landing
+finance/purchaseOptions.aspx - Finance > Purchase Options
+finance/AutoLoans.aspx - Finance > Auto Loans
+finance/LeasingCenter.aspx - Finance > Leasing Center
+finance/calculators.aspx - Finance > Auto Calculators
+finance/insurance.aspx - Finance > Auto Insurance
+sellYourCar/Default.aspx - Sell Your Car Landing
+sellYourCar/sellerFAQs.aspx - Sell Your Car
