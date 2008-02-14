@@ -39,15 +39,10 @@ module Adanna
     end
     
     # messageType - symbol representing the message type, can be either :info,
-    # :debug, :warn, :error, or :fatal
-    
+    # :debug, :warn, :error, or :fatal.
+    # message - message to be logged.
     def log(messageType, message)
-      if ((messageType == :info) || 
-            (messageType == :debug) || 
-            (messageType == :warn) || 
-            (messageType == :error) || 
-            (messageType == :fatal))
-        
+      if ([:info, :debug, :warn, :error, :fatal].include?(messageType))
         case (@_logtype)
         when (:plain)
           write_plain_log(messageType, message)
@@ -59,26 +54,32 @@ module Adanna
       end
     end
     
+    # message - message to be logged.
     def info(message)
       log(:info, message)
     end
     
+    # message - message to be logged.
     def debug(message)
       log(:debug, message)
     end
     
+    # message - message to be logged.
     def warn(message)
       log(:warn, message)
     end
     
+    # message - message to be logged.
     def error(message)
       log(:error, message)
     end
     
+    # message - message to be logged.
     def fatal(message)
       log(:fatal, message)
     end
     
+    # Close all open streams except for STDOUT and STDERR.
     def close()
       @_streams.each { |stream|
         if (stream != STDOUT && stream != STDERR)
@@ -89,6 +90,7 @@ module Adanna
       }
     end
     
+    # Operator overload for datetimeformat =.
     def datetimeformat=(value)
       @_datetimeformat = value
     end
