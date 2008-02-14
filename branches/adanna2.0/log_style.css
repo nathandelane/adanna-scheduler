@@ -1,0 +1,33 @@
+﻿.passTitleStyle {
+	color: #008000;
+	font-weight: bold;
+}
+
+.passStyle {
+	color: #008000;
+	font-weight: normal;
+}
+
+.failTitleStyle {
+	color: #F00000;
+	font-weight: bold;
+}
+
+.failStyle {
+	color: #F00000;
+	font-weight: normal;
+}
+
+.doneTitleStyle {
+	color: #808080;
+	font-weight: bold;
+}
+
+.doneStyle {
+	color: #808080;
+	font-weight: normal;
+}
+
+.titleStyle {
+	text-align: right;
+}
