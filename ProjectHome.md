@@ -1,0 +1,1 @@
+This project is to create a service like architecture written in Ruby that can be used for scheduling and running tasks, including other Ruby scripts as well as scripts and programs written in other languages
